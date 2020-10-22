@@ -1,0 +1,1 @@
+I am reading [Groovy for Domain Specific Languages](https://www.goodreads.com/book/show/8864035-groovy-for-domain-specific-languages) and it works with Groovy 1.7 for which no official image is provided.
